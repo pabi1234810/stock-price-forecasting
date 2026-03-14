@@ -1,6 +1,5 @@
 yfinance
 prophet
-tensorflow-cpu
 scikit-learn
 streamlit
 matplotlib
